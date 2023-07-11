@@ -1,0 +1,8 @@
+name: "ChatControlByWrona"
+version: "0.0.1"
+main: "vb.$chatcontrolbywrona.PluginMain"
+api-version: 1.13
+authors: [WronaDEV]
+commands:
+  chat:
+permissions:
