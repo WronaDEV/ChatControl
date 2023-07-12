@@ -1,2 +1,7 @@
-# Message that shows after clearing chat
+# Clear chat
  ClearMessage: "§aChatControl §8» §fChat has been cleared!\n"
+
+# Chat on/off
+ EnableChatMessage: "§aChatControl §8» §aChat has been enabled!"
+ DisableChatMessage: "§aChatControl §8» §cChat has been disabled!"
+ MutedChatMessage: "§8[§aChatControl§8] §8» §cChat is disabled!"
